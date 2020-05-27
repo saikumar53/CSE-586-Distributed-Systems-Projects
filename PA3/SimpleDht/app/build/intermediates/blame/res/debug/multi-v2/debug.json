@@ -1,0 +1,93 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/saikumaraindla/Documents/Distributed_Systems/PA3/SimpleDht/app/build/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/saikumaraindla/Documents/Distributed_Systems/PA3/SimpleDht/app/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "177",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "309"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/saikumaraindla/Documents/Distributed_Systems/PA3/SimpleDht/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/saikumaraindla/Documents/Distributed_Systems/PA3/SimpleDht/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "7,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "292,583",
+                        "endLines": "13,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "578,738"
+                    }
+                },
+                {
+                    "source": "/Users/saikumaraindla/Documents/Distributed_Systems/PA3/SimpleDht/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,6,5,7,4",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "56,201,154,248,103",
+                        "endColumns": "46,46,46,44,50",
+                        "endOffsets": "98,243,196,288,149"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,102,149,196,241",
+                        "endColumns": "46,46,46,44,50",
+                        "endOffsets": "97,144,191,236,287"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/saikumaraindla/Documents/Distributed_Systems/PA3/SimpleDht/app/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/saikumaraindla/Documents/Distributed_Systems/PA3/SimpleDht/app/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "220",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "366"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/saikumaraindla/Documents/Distributed_Systems/PA4/SimpleDynamo/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/saikumaraindla/Documents/Distributed_Systems/PA4/SimpleDynamo/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/saikumaraindla/Documents/Distributed_Systems/PA4/SimpleDynamo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/saikumaraindla/Documents/Distributed_Systems/PA4/SimpleDynamo/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/saikumaraindla/Documents/Distributed_Systems/PA4/SimpleDynamo/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/saikumaraindla/Documents/Distributed_Systems/PA4/SimpleDynamo/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/saikumaraindla/Documents/Distributed_Systems/PA4/SimpleDynamo/app/build/intermediates/res/merged/debug/layout_activity_simple_dynamo.xml.flat",
+        "source": "/Users/saikumaraindla/Documents/Distributed_Systems/PA4/SimpleDynamo/app/src/main/res/layout/activity_simple_dynamo.xml"
+    },
+    {
+        "merged": "/Users/saikumaraindla/Documents/Distributed_Systems/PA4/SimpleDynamo/app/build/intermediates/res/merged/debug/menu_simple_dynamo.xml.flat",
+        "source": "/Users/saikumaraindla/Documents/Distributed_Systems/PA4/SimpleDynamo/app/src/main/res/menu/simple_dynamo.xml"
+    },
+    {
+        "merged": "/Users/saikumaraindla/Documents/Distributed_Systems/PA4/SimpleDynamo/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/saikumaraindla/Documents/Distributed_Systems/PA4/SimpleDynamo/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    }
+]

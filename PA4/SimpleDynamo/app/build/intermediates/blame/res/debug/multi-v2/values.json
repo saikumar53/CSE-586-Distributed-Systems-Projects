@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/saikumaraindla/Documents/Distributed_Systems/PA4/SimpleDynamo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/saikumaraindla/Documents/Distributed_Systems/PA4/SimpleDynamo/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "106,56",
+                        "endColumns": "52,49",
+                        "endOffsets": "154,101"
+                    },
+                    "to": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "169,222",
+                        "endColumns": "52,49",
+                        "endOffsets": "217,267"
+                    }
+                },
+                {
+                    "source": "/Users/saikumaraindla/Documents/Distributed_Systems/PA4/SimpleDynamo/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "/Users/saikumaraindla/Documents/Distributed_Systems/PA4/SimpleDynamo/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "6,13",
+                        "startColumns": "4,4",
+                        "startOffsets": "272,563",
+                        "endLines": "12,15",
+                        "endColumns": "12,12",
+                        "endOffsets": "558,718"
+                    }
+                }
+            ]
+        }
+    ]
+}

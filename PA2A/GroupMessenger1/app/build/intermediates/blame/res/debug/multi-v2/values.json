@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/saikumaraindla/Documents/Distributed_Systems/PA2A/GroupMessenger1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/saikumaraindla/Documents/Distributed_Systems/PA2A/GroupMessenger1/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "9,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "403,694",
+                        "endLines": "15,18",
+                        "endColumns": "12,12",
+                        "endOffsets": "689,849"
+                    }
+                },
+                {
+                    "source": "/Users/saikumaraindla/Documents/Distributed_Systems/PA2A/GroupMessenger1/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,6,5,7,8,9,4",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "56,205,160,252,299,346,109",
+                        "endColumns": "52,46,44,46,46,57,50",
+                        "endOffsets": "104,247,200,294,341,399,155"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,155,200,247,294,352",
+                        "endColumns": "52,46,44,46,46,57,50",
+                        "endOffsets": "103,150,195,242,289,347,398"
+                    }
+                }
+            ]
+        }
+    ]
+}
